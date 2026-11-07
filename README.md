@@ -76,6 +76,10 @@ Dans le code.
 Publication **autonome** pour Windows 64 bits. Le runtime .NET est inclus, donc rien a installer sur le PC cible :
 
 `
-cd P2FixAnAppDotNetCode
+cd P2FixAnAppDotNetCode;
 dotnet publish -c Release -r win-x64 --self-contained true -o bin\Release\publish
 `
+
+## 10. Lien vers l'executable
+
+**Google Drive** : <https://drive.google.com/file/d/13-1n0IFHc_cdRZ2aKHcJ4m77rb-OOL_R/view?usp=sharing>.
